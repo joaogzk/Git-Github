@@ -30,4 +30,12 @@ git branch -M "nome"
 git remote add add origin (link do seu repositório remoto)
 git push -u origin main
 ```
+### Em resumo geral, Git e GitHub são repositorios, no qual você poder armazenar seus codigos/projetos, de uma maneira simples e eficaz.
+
+## OBS: GIT -> Repositório LOCAL
+##      GITHUB -> Repositório REMOTO
+
+## Caso você queira se aprofundar mais, estarei deixando os links desses 3 vídeos que eu assisti e me ajudaram muito a entender sobre Git e GitHub.
+
+[Vídeo 1](https://www.youtube.com/watch?v=GDGMf2bnHlE) 
 
