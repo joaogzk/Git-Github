@@ -5,7 +5,7 @@
 
 # O que é Git?
 
-Em resumo, Git é um sistema deselvolvolvido para você armazenar localmente as versões do seu projeto, fazendo com que você consiga criar "linhas do tempo" dele, e sempre que for preciso, voltar a versões anterior desse mesmo projeto sem que seja preciso fazer backup.
+Em resumo, Git é um sistema deselvolvolvido para você armazenar localmente as versões do seu projeto, fazendo com que você consiga criar "linhas do tempo" dele, e sempre que for preciso, voltar a versões anterior desse mesmo projeto sem que seja preciso ter feito backups.
 
 # O que é GitHub?
 
